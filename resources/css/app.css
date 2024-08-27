@@ -1,0 +1,12 @@
+* {
+    font-family: "Inter";
+}
+
+.w-thumbnail {
+    width: 100px;
+    height: 100px;
+}
+
+.product-card:hover {
+    outline: #000 solid 2px;
+}
